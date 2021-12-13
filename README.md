@@ -6,4 +6,3 @@ Heating and ventilation systems play a vital role in providing a comfortable, pr
 
 The simulation results show that smart components are connected to the home gateway and can be easily operated, monitored, and automated according to the requirements
 
-
